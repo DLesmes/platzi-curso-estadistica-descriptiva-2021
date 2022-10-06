@@ -10,3 +10,8 @@ Puedes utilizar Deepnote para trabajar interactivamente con los notebooks siguie
 
 * [Outlier detection for skewed data](https://wis.kuleuven.be/stat/robust/papers/2008/outlierdetectionskeweddata-revision.pdf)
 * [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)
+
+
+## Apuntes
+
+[@anthonymanotoa](https://deepnote.com/@anthonymanotoa/Apuntes-de-Estadistica-Descriptiva-cfa882b6-c07f-43fe-9901-1c2e471ce120)
